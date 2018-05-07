@@ -30,7 +30,7 @@ public class BFS<STATE_TYPE> extends CoSearcher<STATE_TYPE> {
 					addToOpenList(s);
 					hs.add(s);
 				}
-			}
+			}askdlmas
 			}
 		return null;
 		
